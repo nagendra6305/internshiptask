@@ -5,9 +5,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  background-image: url('https://static.vecteezy.com/system/resources/thumbnails/029/374/908/small_2x/presentation-hub-blue-world-map-background-enhances-banner-and-presentation-ai-generated-photo.jpg');
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: center; 
+ 
+  background-attachment: fixed; 
+
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#input-container{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 50px auto;
+
 }
